@@ -19,7 +19,7 @@ For this project, I was interested in using FIFA 2019 complete player dataset to
 
 ## File Descriptions <a name="files"></a>
 
-The above three questions are handles in a single notebook - FIFA 2019 Linear Regression.  Markdown cells were used to assist in walking through the thought process for individual steps.
+The above three questions are handles in a single notebook - [FIFA 2019 Linear Regression](https://github.com/Dhanush1014/Simple-Analysis-On-FIFA-19/blob/master/FIFA%202019%20Linear%20Regression.ipynb).  Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ## Results<a name="results"></a>
 
