@@ -1,7 +1,7 @@
 # Simple-Analysis-On-FIFA-19
 
 ### Table of Contents
-1. [Intallation](#installation)
+1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#result)
