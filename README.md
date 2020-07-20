@@ -1,4 +1,4 @@
-# Simple-Analysis-On-FIFA-19
+# Simple Analysis On FIFA 19
 
 ### Table of Contents
 1. [Installation](#installation)
