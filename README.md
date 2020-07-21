@@ -23,7 +23,7 @@ The above three questions are handles in a single notebook - [FIFA 2019 Linear R
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](). //TODO
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a> 
 
