@@ -23,7 +23,7 @@ The above three questions are handles in a single notebook - [FIFA 2019 Linear R
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](). //TODO
+The main findings of the code can be found at the post available [here](https://towardsdatascience.com/analytics-on-fifa-2019-players-b63747958d79). 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a> 
 
