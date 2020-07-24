@@ -14,8 +14,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interested in using FIFA 2019 complete player dataset to better understand:
 1. Best players in various aspects ?
-2. How age has an impact on the player's potential?
-3. Build a model to predict overall performance of the player?
+2. Most preferred foot?
+3. Effect of Football Foot on Player's Potential?
+4. How age has an impact on the player's potential?
+5. Build a model to predict overall performance of the player?
 
 ## File Descriptions <a name="files"></a>
 
